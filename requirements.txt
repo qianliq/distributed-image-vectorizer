@@ -1,0 +1,15 @@
+celery==5.4.0
+click==8.1.7
+redis
+faiss-cpu
+modelscope
+numpy
+pillow
+torch
+torchvision
+datasets==2.16
+simplejson
+sortedcontainers
+opencv-python
+onnxruntime
+addict
